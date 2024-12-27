@@ -1,10 +1,10 @@
 import os
 
-telegram_token = "6501432731:AAEpwpqGhEE_GR4vin8npDWJzNeLuYGD114"
+telegram_token = ""
 
 data_base = os.path.join(os.path.dirname(__file__), 'database.db')
 
-group_id_for_notifications = -1001966562000
+group_id_for_notifications = -01111
 
 start_status = 0
 phone_number_status = 1
